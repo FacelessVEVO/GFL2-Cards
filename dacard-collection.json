@@ -1,7 +1,7 @@
 {
  "format": "dacard-collection",
  "version": 3,
- "exported": "2026-10-03T10:12:40.846Z",
+ "exported": "2026-10-05T07:08:58.526Z",
  "dacard": "2.1.0",
  "collection": {
   "id": "b73e12a9c153b5fb5248732a",
@@ -14,7 +14,7 @@
   "legacy_folder": null,
   "sort": 2,
   "created_at": 1791002895658,
-  "updated_at": 1791022018661,
+  "updated_at": 1791136754781,
   "rarities": "[{\"name\":\"Common\",\"color\":\"#9C9C9C\",\"price\":10000,\"weight\":50},{\"name\":\"Uncommon\",\"color\":\"#4FD65A\",\"price\":25000,\"weight\":40},{\"name\":\"Rare\",\"color\":\"#3F8CFF\",\"price\":50000,\"weight\":25},{\"name\":\"Double Rare\",\"color\":\"#1ED2D2\",\"price\":100000,\"weight\":20},{\"name\":\"Super Rare1\",\"color\":\"#FEA9DF\",\"price\":200000,\"weight\":10},{\"name\":\"Super Rare2\",\"color\":\"#EE82EE\",\"price\":250000,\"weight\":8},{\"name\":\"Super Rare3\",\"color\":\"#BF33DB\",\"price\":320000,\"weight\":5},{\"name\":\"Special\",\"color\":\"#FFB32E\",\"price\":400000,\"weight\":1.5},{\"name\":\"ZHS\",\"color\":\"#DE3A21\",\"price\":500000,\"weight\":0.5}]",
   "foil_chance": null,
   "foil_types": "[\"crackle\"]"
@@ -281,7 +281,7 @@
    "legacy_key": "gflwscollabdacardaddon/c2671ddee800/255dfd0f383c",
    "sort": 73,
    "created_at": 1790993473979,
-   "updated_at": 1791016458529,
+   "updated_at": 1791139535575,
    "thumb_version": 1
   },
   {
@@ -425,7 +425,7 @@
    "legacy_key": "gflwscollabdacardaddon/c2671ddee800/34625191609d",
    "sort": 85,
    "created_at": 1790993473986,
-   "updated_at": 1791016707827,
+   "updated_at": 1791182153191,
    "thumb_version": 1
   },
   {
@@ -689,7 +689,7 @@
    "legacy_key": "gflwscollabdacardaddon/c2671ddee800/647a62035165",
    "sort": 126,
    "created_at": 1790993474011,
-   "updated_at": 1791016707827,
+   "updated_at": 1791139546160,
    "thumb_version": 1
   },
   {
@@ -809,7 +809,7 @@
    "legacy_key": "gflwscollabdacardaddon/c2671ddee800/6e0dd7cfe89b",
    "sort": 137,
    "created_at": 1790993474018,
-   "updated_at": 1791016246639,
+   "updated_at": 1791182331298,
    "thumb_version": 1
   },
   {
@@ -1001,7 +1001,7 @@
    "legacy_key": "gflwscollabdacardaddon/c2671ddee800/8895b43d404a",
    "sort": 156,
    "created_at": 1790993474029,
-   "updated_at": 1791016266322,
+   "updated_at": 1791182283532,
    "thumb_version": 1
   },
   {
@@ -1169,7 +1169,7 @@
    "legacy_key": "gflwscollabdacardaddon/c2671ddee800/aa6145a0b0bc",
    "sort": 182,
    "created_at": 1790993474046,
-   "updated_at": 1791016098908,
+   "updated_at": 1791182157845,
    "thumb_version": 1
   },
   {
@@ -1225,7 +1225,7 @@
    "foil_id": "85b14b9839c1f7bc98bc9dd5",
    "id_key": "c2671ddee800/c1f68efa3c37",
    "collection_id": "b73e12a9c153b5fb5248732a",
-   "rarity": "Double Rare",
+   "rarity": "Rare",
    "type": "2d",
    "name": "Girls' Frontline 2: Exilium - Makiatto",
    "short_name": "Wawa RR",
@@ -1241,7 +1241,7 @@
    "legacy_key": "gflwscollabdacardaddon/c2671ddee800/c1f68efa3c37",
    "sort": 193,
    "created_at": 1790993474052,
-   "updated_at": 1791016434341,
+   "updated_at": 1791139523215,
    "thumb_version": 1
   },
   {
@@ -1607,6 +1607,32 @@
  ],
  "layers": [
   {
+   "id": "e9f1e67a3482",
+   "owner_kind": "collection",
+   "owner_id": "b73e12a9c153b5fb5248732a",
+   "face": "front",
+   "position": 0,
+   "key": "coll:coll_60ed5c1562e5:e9f1e67a3482",
+   "name": null,
+   "text_id": null,
+   "chance": 20,
+   "can_be_foil": 1,
+   "over": 0,
+   "price": 0,
+   "transform": "{\"x\":0.5367,\"y\":0.769,\"scale\":1.076,\"rotation\":0}",
+   "text": null,
+   "fps": null,
+   "speed": 12,
+   "roughness": null,
+   "metallic": 0.78,
+   "foil": 0,
+   "price_percent": 15,
+   "foil_chance": null,
+   "foil_type": null,
+   "kind": null,
+   "parent_id": null
+  },
+  {
    "id": "1295b983976f",
    "owner_kind": "card",
    "owner_id": "033c5b34fe985e633958c1dd",
@@ -1847,6 +1873,58 @@
    "face": "front",
    "position": 0,
    "key": "card:layer_7c80ee6b1e",
+   "name": null,
+   "text_id": null,
+   "chance": 100,
+   "can_be_foil": 1,
+   "over": 0,
+   "price": 0,
+   "transform": null,
+   "text": null,
+   "fps": null,
+   "speed": 12,
+   "roughness": null,
+   "metallic": null,
+   "foil": 0,
+   "price_percent": 0,
+   "foil_chance": null,
+   "foil_type": null,
+   "kind": null,
+   "parent_id": null
+  },
+  {
+   "id": "34f22bc2e6f5",
+   "owner_kind": "card",
+   "owner_id": "1ad808d6b894ffc2ef21d6e0",
+   "face": "front",
+   "position": 1,
+   "key": "card:34f22bc2e6f5",
+   "name": null,
+   "text_id": null,
+   "chance": 20,
+   "can_be_foil": 1,
+   "over": 0,
+   "price": 0,
+   "transform": null,
+   "text": null,
+   "fps": null,
+   "speed": 12,
+   "roughness": null,
+   "metallic": null,
+   "foil": 0,
+   "price_percent": 25,
+   "foil_chance": null,
+   "foil_type": null,
+   "kind": null,
+   "parent_id": null
+  },
+  {
+   "id": "1cd3bda65e53",
+   "owner_kind": "card",
+   "owner_id": "1ad808d6b894ffc2ef21d6e0",
+   "face": "front",
+   "position": 2,
+   "key": "card:1cd3bda65e53",
    "name": null,
    "text_id": null,
    "chance": 100,
@@ -2361,6 +2439,32 @@
    "parent_id": null
   },
   {
+   "id": "fc2b53756b0f",
+   "owner_kind": "card",
+   "owner_id": "725c31b209590efabfaad269",
+   "face": "front",
+   "position": 1,
+   "key": "card:fc2b53756b0f",
+   "name": null,
+   "text_id": null,
+   "chance": 20,
+   "can_be_foil": 1,
+   "over": 0,
+   "price": 0,
+   "transform": null,
+   "text": null,
+   "fps": null,
+   "speed": 12,
+   "roughness": null,
+   "metallic": null,
+   "foil": 0,
+   "price_percent": 25,
+   "foil_chance": null,
+   "foil_type": null,
+   "kind": null,
+   "parent_id": null
+  },
+  {
    "id": "fee75fd398be",
    "owner_kind": "card",
    "owner_id": "7502dd412af6fb47e94a1c4b",
@@ -2647,6 +2751,58 @@
    "parent_id": null
   },
   {
+   "id": "ffec084a73fa",
+   "owner_kind": "card",
+   "owner_id": "a31043dd316f4f888b12a391",
+   "face": "front",
+   "position": 1,
+   "key": "card:ffec084a73fa",
+   "name": null,
+   "text_id": null,
+   "chance": 20,
+   "can_be_foil": 1,
+   "over": 0,
+   "price": 0,
+   "transform": null,
+   "text": null,
+   "fps": null,
+   "speed": 12,
+   "roughness": null,
+   "metallic": null,
+   "foil": 0,
+   "price_percent": 25,
+   "foil_chance": null,
+   "foil_type": null,
+   "kind": null,
+   "parent_id": null
+  },
+  {
+   "id": "615704412bc0",
+   "owner_kind": "card",
+   "owner_id": "a31043dd316f4f888b12a391",
+   "face": "front",
+   "position": 2,
+   "key": "card:615704412bc0",
+   "name": null,
+   "text_id": null,
+   "chance": 100,
+   "can_be_foil": 1,
+   "over": 0,
+   "price": 0,
+   "transform": "{\"x\":0.7669,\"y\":0.2379,\"scale\":0.58,\"rotation\":89.7}",
+   "text": null,
+   "fps": null,
+   "speed": 12,
+   "roughness": null,
+   "metallic": null,
+   "foil": 0,
+   "price_percent": 0,
+   "foil_chance": null,
+   "foil_type": null,
+   "kind": null,
+   "parent_id": null
+  },
+  {
    "id": "8112a6b86de5",
    "owner_kind": "card",
    "owner_id": "aa5cfac1478d4d4f097190ec",
@@ -2745,6 +2901,32 @@
    "metallic": null,
    "foil": 0,
    "price_percent": 0,
+   "foil_chance": null,
+   "foil_type": null,
+   "kind": null,
+   "parent_id": null
+  },
+  {
+   "id": "a0511f8c53ff",
+   "owner_kind": "card",
+   "owner_id": "b8f324a4c78fab01c8c5014f",
+   "face": "front",
+   "position": 1,
+   "key": "card:a0511f8c53ff",
+   "name": null,
+   "text_id": null,
+   "chance": 20,
+   "can_be_foil": 1,
+   "over": 0,
+   "price": 0,
+   "transform": null,
+   "text": null,
+   "fps": null,
+   "speed": 12,
+   "roughness": null,
+   "metallic": null,
+   "foil": 0,
+   "price_percent": 25,
    "foil_chance": null,
    "foil_type": null,
    "kind": null,
@@ -2894,6 +3076,58 @@
    "over": 0,
    "price": 0,
    "transform": "{\"x\":0.5,\"y\":0.5,\"scale\":1.0002,\"rotation\":0}",
+   "text": null,
+   "fps": null,
+   "speed": 12,
+   "roughness": null,
+   "metallic": null,
+   "foil": 0,
+   "price_percent": 0,
+   "foil_chance": null,
+   "foil_type": null,
+   "kind": null,
+   "parent_id": null
+  },
+  {
+   "id": "721667acbc4e",
+   "owner_kind": "card",
+   "owner_id": "cfb5e4835d3bfa08cf219075",
+   "face": "front",
+   "position": 1,
+   "key": "card:721667acbc4e",
+   "name": null,
+   "text_id": null,
+   "chance": 20,
+   "can_be_foil": 1,
+   "over": 0,
+   "price": 0,
+   "transform": null,
+   "text": null,
+   "fps": null,
+   "speed": 12,
+   "roughness": null,
+   "metallic": null,
+   "foil": 0,
+   "price_percent": 25,
+   "foil_chance": null,
+   "foil_type": null,
+   "kind": null,
+   "parent_id": null
+  },
+  {
+   "id": "ea1b428b45a6",
+   "owner_kind": "card",
+   "owner_id": "cfb5e4835d3bfa08cf219075",
+   "face": "front",
+   "position": 2,
+   "key": "card:ea1b428b45a6",
+   "name": null,
+   "text_id": null,
+   "chance": 100,
+   "can_be_foil": 1,
+   "over": 0,
+   "price": 0,
+   "transform": "{\"x\":0.2121,\"y\":0.4936,\"scale\":0.564,\"rotation\":-45.8}",
    "text": null,
    "fps": null,
    "speed": 12,
@@ -3245,6 +3479,58 @@
    "parent_id": null
   },
   {
+   "id": "fd4cedec73e4",
+   "owner_kind": "card",
+   "owner_id": "f7cdc81066ce2a1577f2b4b0",
+   "face": "front",
+   "position": 1,
+   "key": "card:fd4cedec73e4",
+   "name": null,
+   "text_id": null,
+   "chance": 20,
+   "can_be_foil": 1,
+   "over": 0,
+   "price": 0,
+   "transform": null,
+   "text": null,
+   "fps": null,
+   "speed": 12,
+   "roughness": null,
+   "metallic": null,
+   "foil": 0,
+   "price_percent": 25,
+   "foil_chance": null,
+   "foil_type": null,
+   "kind": null,
+   "parent_id": null
+  },
+  {
+   "id": "edee6c320831",
+   "owner_kind": "card",
+   "owner_id": "f7cdc81066ce2a1577f2b4b0",
+   "face": "front",
+   "position": 2,
+   "key": "card:edee6c320831",
+   "name": null,
+   "text_id": null,
+   "chance": 100,
+   "can_be_foil": 1,
+   "over": 0,
+   "price": 0,
+   "transform": null,
+   "text": null,
+   "fps": null,
+   "speed": 12,
+   "roughness": null,
+   "metallic": null,
+   "foil": 0,
+   "price_percent": 0,
+   "foil_chance": null,
+   "foil_type": null,
+   "kind": null,
+   "parent_id": null
+  },
+  {
    "id": "e5f29ebbf247",
    "owner_kind": "card",
    "owner_id": "f7ecfb4049a95f3a95d7047b",
@@ -3265,6 +3551,32 @@
    "metallic": null,
    "foil": 0,
    "price_percent": 0,
+   "foil_chance": null,
+   "foil_type": null,
+   "kind": null,
+   "parent_id": null
+  },
+  {
+   "id": "0ccaf1da01bf",
+   "owner_kind": "card",
+   "owner_id": "f7ecfb4049a95f3a95d7047b",
+   "face": "front",
+   "position": 1,
+   "key": "card:0ccaf1da01bf",
+   "name": null,
+   "text_id": null,
+   "chance": 20,
+   "can_be_foil": 1,
+   "over": 0,
+   "price": 0,
+   "transform": null,
+   "text": null,
+   "fps": null,
+   "speed": 12,
+   "roughness": null,
+   "metallic": null,
+   "foil": 0,
+   "price_percent": 25,
    "foil_chance": null,
    "foil_type": null,
    "kind": null,
@@ -3345,7 +3657,29 @@
    "rotation": 0
   }
  ],
- "packs": [],
+ "packs": [
+  {
+   "id": "9e2fa22c0a5f72ffd45ddfb4",
+   "collection_id": "b73e12a9c153b5fb5248732a",
+   "name": "Girls' Frontline 2: Exilium Booster Pack",
+   "short_name": "GFL2",
+   "description": null,
+   "locales": null,
+   "all_collections": 0,
+   "rarities": null,
+   "card_count": 10,
+   "price": 30000,
+   "purchasable": 1,
+   "loot_percent": 0,
+   "background": null,
+   "look": "layers",
+   "skin_id": null,
+   "design": "{\"base\":null,\"layers\":[{\"file\":\"7593e256dd03\",\"name\":\"image_2026-10-05_170009264\",\"face\":\"back\",\"x\":0.4588,\"y\":0.2316,\"scale\":0.195,\"rotation\":0,\"opacity\":1},{\"file\":\"7f30b8bb0e34\",\"name\":\"image_2026-10-05_170027944\",\"face\":\"back\",\"x\":0.4618,\"y\":0.4055,\"scale\":0.215,\"rotation\":0,\"opacity\":1},{\"file\":\"d151d20ab97a\",\"name\":\"image_2026-10-05_170545633\",\"face\":\"front\",\"x\":1.0706,\"y\":0.5038,\"scale\":2.715,\"rotation\":0,\"opacity\":1},{\"file\":\"d7d4f9129204\",\"name\":\"gfl2 inv\",\"face\":\"back\",\"x\":0.4529,\"y\":0.2467,\"scale\":0.525,\"rotation\":90,\"opacity\":1}]}",
+   "sort": 1,
+   "created_at": 1791184045101,
+   "updated_at": 1791184045108
+  }
+ ],
  "packCards": [],
  "images": [
   {
@@ -3354,13 +3688,6 @@
    "scope": "collections/b73e12a9c153b5fb5248732a",
    "frames": 0,
    "updated_at": 1791009975220
-  },
-  {
-   "set_id": "b1d5b32df4b6",
-   "channel": "albedo",
-   "scope": "collections/b73e12a9c153b5fb5248732a",
-   "frames": 0,
-   "updated_at": 1791016098909
   },
   {
    "set_id": "79b2c7d46580",
@@ -3461,27 +3788,6 @@
    "updated_at": 1791016239934
   },
   {
-   "set_id": "e5f29ebbf247",
-   "channel": "albedo",
-   "scope": "collections/b73e12a9c153b5fb5248732a",
-   "frames": 0,
-   "updated_at": 1791016246639
-  },
-  {
-   "set_id": "1a830423c8a9",
-   "channel": "albedo",
-   "scope": "collections/b73e12a9c153b5fb5248732a",
-   "frames": 0,
-   "updated_at": 1791016266322
-  },
-  {
-   "set_id": "d1edcb267f89",
-   "channel": "albedo",
-   "scope": "collections/b73e12a9c153b5fb5248732a",
-   "frames": 0,
-   "updated_at": 1791016281693
-  },
-  {
    "set_id": "134067aaa619",
    "channel": "albedo",
    "scope": "collections/b73e12a9c153b5fb5248732a",
@@ -3557,27 +3863,6 @@
    "scope": "collections/b73e12a9c153b5fb5248732a",
    "frames": 0,
    "updated_at": 1791016409037
-  },
-  {
-   "set_id": "a8b1a395f67e",
-   "channel": "albedo",
-   "scope": "collections/b73e12a9c153b5fb5248732a",
-   "frames": 0,
-   "updated_at": 1791016434341
-  },
-  {
-   "set_id": "148eaaea98b3",
-   "channel": "albedo",
-   "scope": "collections/b73e12a9c153b5fb5248732a",
-   "frames": 0,
-   "updated_at": 1791016443938
-  },
-  {
-   "set_id": "900a21019dde",
-   "channel": "albedo",
-   "scope": "collections/b73e12a9c153b5fb5248732a",
-   "frames": 0,
-   "updated_at": 1791016458529
   },
   {
    "set_id": "d2d2d95d315f",
@@ -3811,18 +4096,368 @@
    "updated_at": 1791016855228
   },
   {
+   "set_id": "e9f1e67a3482",
+   "channel": "normal",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791136754781
+  },
+  {
+   "set_id": "e9f1e67a3482",
+   "channel": "mask",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791136754781
+  },
+  {
    "set_id": "5ef64d70b960",
    "channel": "albedo",
    "scope": "collections/b73e12a9c153b5fb5248732a",
    "frames": 0,
-   "updated_at": 1791022018662
+   "updated_at": 1791136754781
   },
   {
    "set_id": "4b82fa9d5c44",
    "channel": "albedo",
    "scope": "collections/b73e12a9c153b5fb5248732a",
    "frames": 0,
-   "updated_at": 1791022018662
+   "updated_at": 1791136754781
+  },
+  {
+   "set_id": "a8b1a395f67e",
+   "channel": "albedo",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791139523215
+  },
+  {
+   "set_id": "a8b1a395f67e",
+   "channel": "foilmask",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791139523215
+  },
+  {
+   "set_id": "a0511f8c53ff",
+   "channel": "albedo",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791139523215
+  },
+  {
+   "set_id": "a0511f8c53ff",
+   "channel": "metallic",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791139523215
+  },
+  {
+   "set_id": "a0511f8c53ff",
+   "channel": "foilmask",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791139523215
+  },
+  {
+   "set_id": "900a21019dde",
+   "channel": "albedo",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791139535575
+  },
+  {
+   "set_id": "900a21019dde",
+   "channel": "foilmask",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791139535575
+  },
+  {
+   "set_id": "ffec084a73fa",
+   "channel": "albedo",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791139535575
+  },
+  {
+   "set_id": "ffec084a73fa",
+   "channel": "metallic",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791139535575
+  },
+  {
+   "set_id": "ffec084a73fa",
+   "channel": "foilmask",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791139535575
+  },
+  {
+   "set_id": "615704412bc0",
+   "channel": "normal",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791139535575
+  },
+  {
+   "set_id": "615704412bc0",
+   "channel": "mask",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791139535575
+  },
+  {
+   "set_id": "148eaaea98b3",
+   "channel": "albedo",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791139546161
+  },
+  {
+   "set_id": "148eaaea98b3",
+   "channel": "foilmask",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791139546161
+  },
+  {
+   "set_id": "721667acbc4e",
+   "channel": "albedo",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791139546161
+  },
+  {
+   "set_id": "721667acbc4e",
+   "channel": "metallic",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791139546161
+  },
+  {
+   "set_id": "721667acbc4e",
+   "channel": "foilmask",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791139546161
+  },
+  {
+   "set_id": "ea1b428b45a6",
+   "channel": "normal",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791139546161
+  },
+  {
+   "set_id": "ea1b428b45a6",
+   "channel": "mask",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791139546161
+  },
+  {
+   "set_id": "d1edcb267f89",
+   "channel": "albedo",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182153191
+  },
+  {
+   "set_id": "d1edcb267f89",
+   "channel": "foilmask",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182153191
+  },
+  {
+   "set_id": "34f22bc2e6f5",
+   "channel": "albedo",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182153191
+  },
+  {
+   "set_id": "34f22bc2e6f5",
+   "channel": "metallic",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182153191
+  },
+  {
+   "set_id": "34f22bc2e6f5",
+   "channel": "foilmask",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182153191
+  },
+  {
+   "set_id": "1cd3bda65e53",
+   "channel": "normal",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182153191
+  },
+  {
+   "set_id": "1cd3bda65e53",
+   "channel": "mask",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182153191
+  },
+  {
+   "set_id": "b1d5b32df4b6",
+   "channel": "albedo",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182157845
+  },
+  {
+   "set_id": "b1d5b32df4b6",
+   "channel": "foilmask",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182157845
+  },
+  {
+   "set_id": "fd4cedec73e4",
+   "channel": "albedo",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182157845
+  },
+  {
+   "set_id": "fd4cedec73e4",
+   "channel": "metallic",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182157845
+  },
+  {
+   "set_id": "fd4cedec73e4",
+   "channel": "foilmask",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182157845
+  },
+  {
+   "set_id": "edee6c320831",
+   "channel": "normal",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182157845
+  },
+  {
+   "set_id": "edee6c320831",
+   "channel": "mask",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182157845
+  },
+  {
+   "set_id": "1a830423c8a9",
+   "channel": "albedo",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182283532
+  },
+  {
+   "set_id": "1a830423c8a9",
+   "channel": "foilmask",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182283532
+  },
+  {
+   "set_id": "fc2b53756b0f",
+   "channel": "albedo",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182283532
+  },
+  {
+   "set_id": "fc2b53756b0f",
+   "channel": "metallic",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182283532
+  },
+  {
+   "set_id": "fc2b53756b0f",
+   "channel": "foilmask",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182283532
+  },
+  {
+   "set_id": "e5f29ebbf247",
+   "channel": "albedo",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182331299
+  },
+  {
+   "set_id": "e5f29ebbf247",
+   "channel": "foilmask",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182331299
+  },
+  {
+   "set_id": "0ccaf1da01bf",
+   "channel": "albedo",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182331299
+  },
+  {
+   "set_id": "0ccaf1da01bf",
+   "channel": "metallic",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182331299
+  },
+  {
+   "set_id": "0ccaf1da01bf",
+   "channel": "foilmask",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791182331299
+  },
+  {
+   "set_id": "9e2fa22c0a5f72ffd45ddfb4",
+   "channel": "albedo",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791184045108
+  },
+  {
+   "set_id": "7593e256dd03",
+   "channel": "albedo",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791184045108
+  },
+  {
+   "set_id": "7f30b8bb0e34",
+   "channel": "albedo",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791184045108
+  },
+  {
+   "set_id": "d151d20ab97a",
+   "channel": "albedo",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791184045108
+  },
+  {
+   "set_id": "d7d4f9129204",
+   "channel": "albedo",
+   "scope": "collections/b73e12a9c153b5fb5248732a",
+   "frames": 0,
+   "updated_at": 1791184045108
   }
  ],
  "skins": [],
